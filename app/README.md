@@ -8,10 +8,10 @@ Proyecto de academia e-learning basico
 
    ```bash
    pip install -r requirements.txt
-
 3. Ejecutar Servidor
-       ```bash
       uvicorn app.main:app --reload
+
+
 
 ## RUTAS Y EJEMPLOS PARA PROBAR LOS ENDPOINT
 1. Crear un Curso
